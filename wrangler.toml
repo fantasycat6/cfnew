@@ -1,1 +1,4 @@
+name = "cfnew"
+main = "_worker.js"
 compatibility_date = "2026-01-20"
+keep_vars = true
